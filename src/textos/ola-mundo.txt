@@ -1,0 +1,1 @@
+Acredita-se que o primeiro exemplo de “Hello World” tenha sido criado por Brian Kernighan, coautor do livro “The C Programming Language”. Em sua obra, Kernighan incluiu um programa simples em C que exibia a frase “hello, world” na tela. Esse programa foi adotado como um padrão informal para testar a funcionalidade básica de uma nova linguagem de programação.
